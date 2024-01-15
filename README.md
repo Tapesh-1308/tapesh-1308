@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tapesh Dua</h1>
 <h3 align="center">I 'm passionate front-end developer specialized in building exceptional web apps based in Haryana, India 📍</h3>
-<img align="right" width="400" alt="coding"  src="![image](https://github.com/Tapesh-1308/tapesh-1308/assets/71540051/a80072bb-51c4-4a09-bc01-ec1353376225) "/>
+<img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapesh-1308&label=Profile%20views&color=0e75b6&style=flat" alt="tapesh-1308" /> </p>
 
 
