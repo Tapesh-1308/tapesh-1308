@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapesh-1308&label=Profile%20views&color=0e75b6&style=flat" alt="tapesh-1308" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at [Portfolio](https://tapeshdua.vercel.app/)
 
 - 📫 How to reach me **tapesh.dua420@gmail.com**
 
-- 📄 Know about my experiences [coming soon](coming soon)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11nsro2l3Z09Cdg36RCH_BxD11RTFGoH7/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
